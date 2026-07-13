@@ -1,0 +1,11 @@
+{
+"name":"Anjum Syed",
+"Profession":"Technical Writer",
+"Experience": 10,
+"Country":"India",
+"Skills": [
+    "Technical Writing",
+    "API Documentation",
+    "Markdown"
+]
+}
